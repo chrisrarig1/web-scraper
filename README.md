@@ -14,3 +14,5 @@
   - Input: URL
   - Output: String
   - Description: Returns content requiring citation in string form
+
+- PR: https://github.com/chrisrarig1/web-scraper/pull/2
