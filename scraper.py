@@ -18,7 +18,3 @@ def get_citations_needed_report(URL):
     citations = [a for a in p_tag if 'citation needed' in a.text]
     for a in citations:
         return str(a.text)
-
-URL = 'https://en.wikipedia.org/wiki/Beer'
-
-print(get_citations_needed_report(URL))
