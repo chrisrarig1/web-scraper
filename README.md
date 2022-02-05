@@ -16,3 +16,5 @@
   - Description: Returns content requiring citation in string form
 
 - PR: https://github.com/chrisrarig1/web-scraper/pull/2
+
+- Worked with Ian Cargill
